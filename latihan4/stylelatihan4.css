@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: auto;
+        width: 800px; 
+        
+}
+
+.header{
+    text-align: left;
+    background-color: rgb(228, 252, 255);
+}
+
+
+body{
+    background-color: rgb(205, 255, 255);
+}
+
+    
+
+.header .link{
+text-decoration: none;
+margin-right: 5px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+.hero { 
+    text-align: center;
+    background-color: rgb(170, 255, 255);
+}
+
+a:hover{
+    color:skyblue;
+}
+
+.artikel{
+    text-align:justify ;
+    font-size: medium;
+    background-color: rgb(219, 247, 247);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+        
+
+
+.footer{
+        text-align: center;
+        background-color: rgb(173, 173, 173);
+        box-sizing: border-box;
+}
+

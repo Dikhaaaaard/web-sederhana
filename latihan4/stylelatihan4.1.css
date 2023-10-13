@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+         margin: auto;
+         width: 900px;
+         border: solid black; 
+        
+}
+ 
+img{
+float: right;
+padding-left: 10px;
+width: 50%;
+
+}
+
+p{
+    text-align: justify;
+}
+

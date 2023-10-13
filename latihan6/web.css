@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    margin: auto;
+        width: 960px; 
+        height: auto;
+        border: solid #F8F0E5;
+        background-color:  #EADBC8;
+        position: relative;
+        
+}
+
+
+body{
+    background-color: #DAC0A3;
+}
+
+
+
+.header{
+        font-weight: bold; 
+        padding-bottom: 10px; 
+        /* margin: auto;
+    width: 600px;
+    text-align: justify;
+    margin-top: 30px; */
+    
+}
+
+
+.header p{
+            font-size: 60px;
+            text-align:center;
+            text-decoration: underline;
+}
+
+
+.header a{
+    text-decoration: none;
+font-size: 20px;
+padding: 5px;
+color: black;
+
+}
+
+
+a:hover{
+    color: #DAC0A3;
+}
+
+
+
+.thumbnail img{
+    margin: auto;
+    width: 600px;
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+
+.thumbnail2 img{
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+
+.thumbnail3 img{
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+
+.artikel1{
+    width: 600px;
+    text-align: justify;
+    float: left;
+    padding-left:  5px;
+    background-color:#DAC0A3;
+
+}
+
+
+.biodata{
+    width: 250px;
+    float: right;
+    text-align: justify;
+    padding-right: 5px;
+    border: solid #DAC0A3;
+    background-color: #DAC0A3;
+    
+}
+
+
+
+
+.bio{
+    float: right;
+    width: 120px;
+    height: 120px;
+}
+
+
+.clear{
+    clear: both;
+}
+
+
+.footer{ text-align: center;
+    background-color: rgb(196, 196, 196);
+    font-size: small;
+    font-weight: bold;
+}
+
+
+
+

@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 960px;
+    height: 1300px;
+    /* border: solid brown; */
+    position: relative;
+    margin: auto;
+}
+
+
+.iklan{
+    
+    position: fixed;
+    bottom: 0px;
+    width: 1399px;
+    height: 100px;
+}
+
+.header p{
+    font-size: 60px;
+    text-align:center;
+    text-decoration: underline;
+}
+
+
+a:hover{
+    color: skyblue;
+}
+
+
+.header a{
+    text-decoration: none;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+  
+}
+
+.artikel{
+    
+    
+    margin-top: 100px;
+}
+
+
+
+
+.artikel div{
+    margin: auto;
+}
+
+
+
+.kotak1{
+    margin-top: 200px;
+    width: 100px;
+    height: 100px; 
+    background-color: antiquewhite;
+}
+
+
+
+.kotak2{
+   
+    width: 100px;
+    height: 100px;
+    background-color: rgb(241, 203, 153);
+}
+
+
+.kotak3{  
+
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 172, 64);
+}
